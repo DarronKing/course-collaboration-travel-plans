@@ -8,14 +8,6 @@ Launch Google Chrome with ease from node.
 * Uses a fresh Chrome profile for each launch, and cleans itself up on `kill()`
 * Binds `Ctrl-C` (by default) to terminate the Chrome process
 * Exposes a small set of [options](#api) for configurability over these details
-
-### Installing
-
-```sh
-yarn add chrome-launcher
-
-# or with npm:
-npm install chrome-launcher
 ```
 
 
